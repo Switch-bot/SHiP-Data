@@ -1,0 +1,4 @@
+Events with more than 2 hits on a detector = 132531
+Total number of reconstructions = 15544
+Total number of reconstructions within the decay vessel = 6981
+Events reconstructed with 2 daughter particles that decayed within the decay vessel = 4863
